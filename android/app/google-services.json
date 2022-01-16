@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "849073149916",
+    "firebase_url": "https://ai-fresh-station.firebaseio.com",
+    "project_id": "ai-fresh-station",
+    "storage_bucket": "ai-fresh-station.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849073149916:android:c02e0c685a12fdd1c26119",
+        "android_client_info": {
+          "package_name": "com.vkram2711.ai_fresh_plant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849073149916-kmkakm6gkve2rpkksd3na3tuhj12n5ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYQPrNxzSnugzB9prck35jkl4MIVRXBNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849073149916-kmkakm6gkve2rpkksd3na3tuhj12n5ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

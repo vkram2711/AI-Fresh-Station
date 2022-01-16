@@ -1,0 +1,29 @@
+{
+  "_comment": "flutter pub run gen_lang:generate",
+  "trays": "Trays",
+
+  "beReadyIn": "BE READY IN = ${day} DAYS",
+  "humidity": "HUMIDITY",
+  "temperature": "TEMPERATURE",
+  "light": "LIGHT",
+  "healthStatus": "HEALTH STATUS",
+  "minerals": "Minerals",
+  "vitaminsAndMinerals": "VITAMINS & MINERALS",
+  "aboutPlant": "ABOUT PLANT",
+  "trayNumber": "Tray ${number}",
+  "infoTrayPot": "TRAY ${trayId} - POT ${potId}",
+  "perOnePlantGrams": "per 1 plant (approx. 30 g)",
+  "grams": "${grams} g",
+
+  "percent": "${percents}%",
+  "F": "${temperature} F",
+  "lux": "${light} LUX",
+
+  "pot":"pot ${potId}",
+  "readyForHarvest": "ready for harvest",
+  "all": "all",
+  "setUpNewPots": "SET UP NEW POTS",
+  "next": "NEXT",
+  "back": "BACK",
+  "submit": "SUBMIT"
+}

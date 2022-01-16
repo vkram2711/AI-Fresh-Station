@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="26px" viewBox="0 0 10 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>temperature</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-250.000000, -127.000000)" stroke="#E04B4B">
+            <path d="M255,152 C257.209139,152 259,150.422713 259,148.477031 C259,146.802791 258.222317,145.582978 256.444789,145.224527 C256.363702,145.208175 256.363702,144.896998 256.444789,144.290994 L256.444789,128.223468 L253.460276,128.223468 L253.460276,144.290994 C253.586516,144.866938 253.586516,145.178116 253.460276,145.224527 C252.015438,145.755712 251,147.011929 251,148.477031 C251,150.422713 252.790861,152 255,152 Z" id="temperature"></path>
+        </g>
+    </g>
+</svg>
